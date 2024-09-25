@@ -1,0 +1,122 @@
+.top{
+  position:relative;
+  
+}
+.top1{
+  position: relative;
+ top:10px;
+}
+.facebook{
+  position: relative;
+  color: aliceblue;
+top: 40px;
+  width: 350px;
+  height: 35px;
+  background-color:rgb(0, 137, 250);
+ display:flexbox;
+ z-index:0;
+ border: 0;
+ border-radius:12px;
+  
+ 
+}
+.facebook:hover{
+  cursor: pointer;
+ background-color: rgb(55, 135, 201);
+}
+.loginbox{
+  position: relative;
+  top: 20px;
+}
+
+.box1{
+  width:350px;
+  height:25px;
+  
+
+}
+.box2{
+  width:350px;
+  height:25px;
+  position: relative;
+ 
+}
+.password{
+  width: 300px;
+  top: 5%;
+position: relative;
+}
+
+.hr{width:12%;
+  position:relative;
+  top:35px;
+  left:8%;
+ 
+}
+.hr1{
+  width: 12%;
+  position: relative;
+  top: 25px;
+  right: 8%;
+ 
+}
+.pass{
+  position: relative;
+  left: 6%;
+  color: rgb(0, 153, 255);
+  bottom: 50px;
+}
+.login{
+  color: rgb(0, 217, 255);
+}
+.login :hover{
+  cursor: pointer;
+  background-color: rgb(21, 97, 141);
+}
+.signup{
+  color: rgb(49, 44, 44);
+
+}
+.intersign{
+
+  color: rgb(15, 136, 192);
+
+}
+.btn{
+  color: aliceblue;
+  position: relative;
+  top: 50px;
+
+  width: 350px;
+  height: 35px;
+  background-color:rgb(0, 137, 250);
+ display:flexbox;
+ z-index:0;
+ border: 0;
+ border-radius:12px;
+}
+.intersign:hover{
+  cursor: pointer;
+  color: rgb(45, 174, 224);
+}
+.pass :hover{
+  cursor: pointer;
+  color: rgb(10, 79, 182);
+}
+.txt1{
+  top:20px;
+  position: relative;
+  color: gray;
+  font-style:;
+.txt2{
+  color: rgb(37, 34, 34);
+}
+.txti{
+  color: gray;
+}
+@media (max-width:8000px){
+  width: 80vw;
+}
+.contact-right{
+  display: none;
+}
